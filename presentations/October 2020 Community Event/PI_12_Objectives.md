@@ -95,8 +95,17 @@
 ##	Settlement V2/Cross-Currency: (Michael)
 •	Determine a pilot for potential implementation and feedback
 
-##	Fraud Management: (Justus)
-•	TBD
+##	Fraud Risk Management: (Justus)
+
+Demonstrate the feasibility of a mojaloop fraud risk management solution using only open source components
+
+•	Create a performant data pipeline to ingest transactional data into the Mojaloop FRM platform
+
+•	Implement a rules engine to evaluate transactions for fraud risk
+
+•	Manage a customer's ability to transact through block-lists
+
+•	Create an entity resolution engine
 
 ##	Leadership and Community mgmt.: (Simeon)
 
